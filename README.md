@@ -4,7 +4,7 @@
 ---
 ### Tutorial
 * **1** . **Run loader.exe and download lua files , or unpack lua.zip and find lua files lol**
-* **2** . **Put lua files %appdata% - Roaming - Stand - Luascript **
+* **2** . **Put lua files %appdata% - Roaming - Stand - Luascript**
 * **3** . **Join public session ( Do not use nickname spoofing )**
 * **4** . **Enjoy your game**
 ---
